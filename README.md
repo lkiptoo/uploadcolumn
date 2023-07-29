@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)

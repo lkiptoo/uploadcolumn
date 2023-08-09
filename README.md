@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)

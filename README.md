@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)

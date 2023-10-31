@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+OBB: update metrics (#7593)

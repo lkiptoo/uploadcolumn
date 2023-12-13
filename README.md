@@ -1,1 +1,1 @@
-ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)

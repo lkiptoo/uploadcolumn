@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Improve Docs Modes tables (#8266)

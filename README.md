@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add YOLOv9 Docs page (#8478)

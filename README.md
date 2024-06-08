@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Update CI.md with CI links (#8786)

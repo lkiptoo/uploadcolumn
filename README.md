@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Docs partial mdformat improvements (#7378)
